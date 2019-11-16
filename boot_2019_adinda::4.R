@@ -80,6 +80,7 @@ abline(h=mean(beta), v=mean(alfa), lwd=2)
 
 
 ######################my solutions#################################
+##### ADINDA HERAWATI 425148 ######################################
 cl<-data.frame(alfa,beta)
 #visualitation data to check outliers
 boxplot(cl)
